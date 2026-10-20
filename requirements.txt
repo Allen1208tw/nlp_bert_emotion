@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0
+torchvision==0.26.0
+torchaudio==2.11.0
+transformers==5.20.2
+datasets==5.1.0
+evaluate==0.4.6
+accelerate==1.15.0
+scikit-learn==1.9.1
+pandas==3.0.6
+matplotlib==3.11.2
